@@ -1,6 +1,10 @@
-# KUcodemaster
+<aside>
+📌 **Frontend Engineer**
 
-안녕하세요
-반갑습니다
+안녕하세요. 지속 가능한 웹 풀스택 개발자를 꿈꾸는 신재훈입니다.
 
-![KUcodemaster's GitHub stats](https://github-readme-stats.vercel.app/api?username=kucodemaster&show_icons=true&theme=radical)
+`**React**`와 `**NextJS**`를 이용한 웹 프론트엔드 개발에 관심을 갖고 학습하고 있습니다.
+
+끊임없이 배우고 성장하고 싶습니다.
+
+</aside>
