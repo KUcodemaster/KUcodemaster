@@ -2,7 +2,7 @@
 <div align=center><h2>📌 Frontend Engineer</h2></div>
 
 
-<div align=center>안녕하세요. <b>지속 가능한 소프트웨어 개발자</b>를 꿈꾸는 신재훈입니다.
+<div align=center>안녕하세요. <b>지속 가능한 소프트웨어 엔지니어</b>를 꿈꾸는 신재훈입니다.
 
 `React`와 `Next.js`를 이용한 **웹 프론트엔드 개발**에 관심을 갖고 학습하고 있습니다.
 
