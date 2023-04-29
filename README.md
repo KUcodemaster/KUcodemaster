@@ -43,7 +43,7 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh9485)
     
       
-- [ ] 백준 골드 1 (23/04/15 기준 실버1)
+- [ ] 백준 골드 1 (23/04/15  실버1)
 
     
  
