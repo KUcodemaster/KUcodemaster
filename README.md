@@ -38,14 +38,7 @@
   <a href="https://meezzle.xyz/">Meezzle<a>
   <br/>
   
-## 🎯 Objective
-  
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh9485)
-    
-      
-- [ ] 백준 골드 1 (23/04/15  실버1)
 
-    
  
 </div>
   
