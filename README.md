@@ -38,7 +38,7 @@
   <a href="https://meezzle.xyz/">Meezzle<a>
   <br/>
   
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jh9485)](https://solved.ac/jh9485/)
  
 </div>
   
