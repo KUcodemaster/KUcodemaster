@@ -35,7 +35,7 @@
   
   ## 💡 Work
   
-  <a href="https://meezzle.xyz/">Meezzle<a>
+  <a href="https://meezzle.xyz/">Meezzle(depreciated)<a>
   <br/>
 
   ## 👨‍💻 Other
